@@ -3,8 +3,6 @@
 
 I'm Jamie from the University of Oxford, researching in Geophysical Fluid Dynamics
 
-<img src='Images/GithubBanner.png' alt="banner"></img>
-
 Skills: Python / MATLAB
 
 - 🔭 I’m currently working on My own code 
