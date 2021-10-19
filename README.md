@@ -1,7 +1,7 @@
 ### Hi there 👋, Jamie Rees
 #### PhD Student
 ![PhD Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<img src='images/GithubBanner.png' alt="banner"></img>
+<img src='Users/User/Documents/GithubBanner.png' alt="banner"></img>
 
 I'm Jamie from the University of Oxford, researching in Geophysical Fluid Dynamics
 
