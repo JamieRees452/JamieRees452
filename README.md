@@ -9,7 +9,7 @@ Skills: Python / MATLAB
 - 🔭 I’m currently working on My own code 
 - 🌱 I’m currently learning Machine Learning 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamieRees452&layout=compact&theme=dark&hide_border=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieRees452)](https://github.com/anuraghazra/github-readme-stats)
 
 
