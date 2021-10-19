@@ -1,7 +1,7 @@
 ### Hi there 👋, Jamie Rees
 #### PhD Student
 
-<img src='Users/User/Documents/GithubBanner.png' alt="banner"></img>
+<img src='C:\Users\User\Documents\GithubBanner.png' alt="banner"></img>
 
 I'm Jamie from the University of Oxford, researching in Geophysical Fluid Dynamics
 
