@@ -5,8 +5,8 @@ I'm Jamie from the University of Oxford, researching in Geophysical Fluid Dynami
 
 Skills: Python / MATLAB
 
-- 🔭 I’m currently working on My own code 
-- 🌱 I’m currently learning Machine Learning 
+- 🔭 I am currently working on numerical solving linear stability problems associated with two-dimensional mean zonal flows
+- 🌱 In my spare time I am working on some basic projects in machine learning to help develop my understanding of the topic
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamieRees452)
