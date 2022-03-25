@@ -8,7 +8,7 @@ My thesis title is:
 
 Skills: Python / MATLAB
 
-- 🔭 I am currently working on numerical solutions to linear stability problems associated with two-dimensional mean zonal flows
+- 🔭 I am currently working on numerical solutions to linear stability problems associated with two-dimensional equatorial zonal flows
 - 🌱 In my spare time I am working on some basic projects in machine learning to help develop my understanding of the topic
 
 
