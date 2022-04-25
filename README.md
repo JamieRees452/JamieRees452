@@ -8,9 +8,7 @@ My thesis title is:
 
 Skills: Python / MATLAB
 
-- 🔭 I am currently working on numerical solutions to linear stability problems associated with two-dimensional equatorial zonal flows
-- 🌱 In my spare time I am working on some basic projects in machine learning to help develop my understanding of the topic
-
+- I am currently working on numerical solutions to linear stability problems associated with two-dimensional equatorial zonal flows
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JamieRees452)
 
