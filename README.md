@@ -1,5 +1,5 @@
 ### Hi there 👋, Jamie Rees
-#### PhD Student
+#### MRes Student
 
 I'm Jamie from the University of Oxford, researching in Geophysical Fluid Dynamics.
 
